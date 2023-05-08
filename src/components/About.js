@@ -25,7 +25,7 @@ const About = () => {
             For any of these times I will explain the pains with a wise hatred
             whence pain?
           </p>
-          <a href="#" className="btn">read more</a>
+          <a href="#about" className="btn">read more</a>
         </article>
       </div>
     </section>
